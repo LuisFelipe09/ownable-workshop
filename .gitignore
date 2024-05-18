@@ -4,5 +4,3 @@ target
 .DS_Store
 
 # Cairo Working Files
-src/counter.cairo
-src/ownable.cairo
